@@ -1,6 +1,6 @@
 ### Login System 
 This application allows you to login, register and autheniticate user 
-It's build using NodeJS, PassportJS, bycrypt and Mongoose 
+It's build using NodeJS, PassportJS, bycrypt, Mongoose and EJS 
 
 <img width="1465" alt="Screenshot 2024-01-28 at 9 56 03 AM" src="https://github.com/Rishit30G/Login_System/assets/74411873/611340e6-a43a-4961-941c-866f8fe09dcc">
 <img width="1467" alt="Screenshot 2024-01-28 at 9 56 23 AM" src="https://github.com/Rishit30G/Login_System/assets/74411873/e7e81e2b-b192-4d4f-88eb-96addfdf87ba">
